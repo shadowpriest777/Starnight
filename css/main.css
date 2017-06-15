@@ -1,0 +1,90 @@
+a{
+    text-decoration: none!important;
+}
+.bg_header{
+    height: 882px;
+    background-image: url(../img/Galaxy_bg_header.png);
+    background-size: cover;
+}
+.header_content{
+    text-align: center;
+}
+.header_content h1{
+    font-family: 'Lato', sans-serif;
+    font-size: 60px;
+    font-weight: lighter;
+    color: #fff;
+    margin-top: 170px;
+}
+.header_content p{
+    width: 700px;
+    margin: 0 auto;
+    font-family: 'Lato', sans-serif;
+    font-size: 17px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #d0e7e9;
+    margin-bottom: 75px;
+}
+.header_content img{
+    margin-bottom: 263px;
+}
+.header_content button{
+    width: 280px;
+    height: 70px;
+    margin-bottom: 66px;
+}
+.bg_section_1{
+    background-image: url(../img/bg_section_1.png);
+    background-repeat: no-repeat;
+    background-position: right -15%;
+    background-color: #e8b968;
+    padding-top: 72px;
+}
+.bg_section_1 h2{
+   font-family: 'Lato', sans-serif;
+    font-size: 55px;
+    font-weight: lighter;
+    color: #fff;
+}
+.bg_section_1 .row{
+    width: 680px;
+}
+.bg_section_1 p{
+   font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    color: #fff;
+    line-height: 30px;
+    padding-bottom: 27px;
+}
+.bg_section_1 a{
+    width: 280px;
+    border: 3px solid #fff;
+    text-align: center;
+    line-height: 68px;
+    display: block;
+    margin-bottom: 183px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    color: #fff;
+}
+.bg_section_2{
+    background-image: url(../img/bg_section_2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #5b6869;
+    height: 559px;
+}
+.carousel-inner{
+    margin-top: 135px;
+    text-align: center;
+}
+.carousel-inner img{
+   margin: auto;
+}
+.carousel-indicators{
+    top: 200px;
+}
+
+
