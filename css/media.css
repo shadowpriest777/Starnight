@@ -31,29 +31,72 @@
     height: 60px;
     margin-bottom: 56px;
 }
-.bg_section_1{
+.section_1{
     background-image: url(../img/bg_section_1_q.png);
     padding-top: 61px;
 }
-.bg_section_1 .row{
+.section_1 .row{
     width: 578px;
 }
-.bg_section_1 h2{
+.section_1 h2{
     font-size: 47px;
 }
-.bg_section_1 p{
+.section_1 p{
     font-size: 13.5px;
     line-height: 25.5px;
     padding-bottom: 23px;
 }
-.bg_section_1 a{
+.section_1 a{
     width: 238px;
     line-height: 58px;
     margin-bottom: 156px;
     font-size: 15px;
 }
-.bg_section_2{
-   height: 511px; 
+.section_2{
+    background-image: url(../img/bg_section_2_q.png);
+    height: 511px;
+}
+.section_2 .carousel-inner{
+    margin-top: 115px;
+}
+.section_2 .carousel-indicators{
+    top: 272px;
+}
+.section_2 .carousel-indicators li{
+    margin: 0 9px!important;
+}
+.text_foto{
+    width: 951px;
+    font-size: 36px;
+}
+.section_3{
+    height: 701px;
+}
+.section_3 img{
+    left: 674px;
+    margin-top: 64px;
+}
+.section_3 h3{
+    font-size: 13px;
+}
+.section_3 p{
+    font-size: 14.1px;
+}
+.section_3 .row:nth-child(2){
+    margin-top: 45px;
+}
+.section_3 .row:nth-child(3){
+    margin-top: 60px;
+}
+.section_3 .row:nth-child(4){
+    margin-top: 60px;
+}
+.btn_try_demo{
+    height: 51px;
+    font-size: 15px;
+}
+.footer{
+    height: 694px;
 }
 }
 
