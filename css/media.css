@@ -74,19 +74,27 @@
 }
 .section_3 img{
     left: 674px;
-    margin-top: 64px;
+    margin-top: 68px;
 }
 .section_3 h3{
     font-size: 13px;
 }
 .section_3 p{
-    font-size: 14.1px;
+    font-size: 13.6px;
+}
+.text_s3{
+    width: 442px;
+    float: left;
+}
+.marright{
+    margin-left: 45px;
+    margin-right: 200px;
 }
 .section_3 .row:nth-child(2){
-    margin-top: 45px;
+    margin-top: 53px;
 }
 .section_3 .row:nth-child(3){
-    margin-top: 60px;
+    margin-top: 46px;
 }
 .section_3 .row:nth-child(4){
     margin-top: 60px;
