@@ -29,8 +29,12 @@ ul{
     color: #d0e7e9;
     margin-bottom: 75px;
 }
-.header_content img{
+.play {
     margin-bottom: 263px;
+    transition: 0.5s;
+}
+.play:hover {
+    transform: scale(1.2);
 }
 .header_content button{
     width: 280px;
